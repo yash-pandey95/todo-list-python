@@ -1,7 +1,0 @@
-a = input("enter your name here : ")
-b = input("enter your school name here : ")
-c = int(input("enter your first no. here : "))
-d = int(input("enter your second no. here : "))
-e = int(input("enter your third no. here : "))
-f = (c*d*e)
-print(f"hello {a} \n \tyour school name is {b}\nand the the multiplication of your no. is {f}")
